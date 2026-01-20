@@ -60,7 +60,7 @@
 ---
 
 ## Проекты
-Мои проекты можно посмотреть в [репозитории projects](https://github.com/zotovada/projects/tree/main).  
+Мои проекты можно посмотреть в репозиторииях [study-projects](https://github.com/zotovada/study-projects) и [pet-projects](https://github.com/zotovada/pet-projects).  
 
 Там представлены практические кейсы по анализу данных: исследовательский анализ данных, расчёт и визуализация метрик, проверка гипотез, дизайн и анализ результатов A/B-теста, решение ad-hoc задач с помощью SQL-запросов средней сложности.  
 
